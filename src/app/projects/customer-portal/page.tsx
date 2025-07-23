@@ -224,7 +224,7 @@ export default function CustomerPortalPage() {
               </div>
               <div>
                 <h3 className="font-semibold mb-2">Team Size</h3>
-                <p className="text-muted-foreground">Solo Project</p>
+                <p className="text-muted-foreground">4 people</p>
               </div>
             </div>
 
